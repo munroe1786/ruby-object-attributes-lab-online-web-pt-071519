@@ -1,3 +1,3 @@
-def Person
+class Person
   attr_accessor :name, :job
 end
